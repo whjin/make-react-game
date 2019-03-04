@@ -7,7 +7,6 @@
 *.iml
 out
 gen
-.gitignore
 .idea/
 node_modules/
 package-lock.json
