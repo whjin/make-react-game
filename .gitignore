@@ -8,10 +8,7 @@
 out
 gen
 .gitignore
-.idea/make-react-game.iml
-.idea/misc.xml
-.idea/modules.xml
-.idea/workspace.xml
+.idea/
 node_modules/
 package-lock.json
 yarn.lock
