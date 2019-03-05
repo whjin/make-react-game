@@ -1,6 +1,7 @@
 {
   "name": "make-react-game",
   "version": "0.1.0",
+  "homepage": "https://whjin.github.io/make-react-game",
   "private": true,
   "dependencies": {
     "history": "^4.7.2",
