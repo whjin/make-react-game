@@ -1,5 +1,6 @@
 # make-react-game
-:tada::rocket:React设计的一款棋盘小游戏
+
+:tada::rocket: React设计的一款棋盘小游戏
 
 # 将React项目部署到Github Pages #
 
